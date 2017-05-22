@@ -9,9 +9,9 @@ Training Dragon Git Course
 
 here is some *ITALIC*
 
-something in ** BOLD **
+something in **BOLD**
 
-something ** BOLD and *ITALIC* **
+something **BOLD and *ITALIC* **
 
 #### unordered lists
 * item
