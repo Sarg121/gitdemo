@@ -1,7 +1,7 @@
 This is our very first file to add.
 
-new line.
+New line.
 
-line with same commit message.
+Line with same commit message.
 
-testing git diff.
+Testing git diff No.2
