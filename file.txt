@@ -1,2 +1,6 @@
 This is our very first
 file to add.
+
+new line
+
+line with same commit message
