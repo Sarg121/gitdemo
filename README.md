@@ -11,7 +11,7 @@ here is some *ITALIC*
 
 something in **BOLD**
 
-something **BOLD and *ITALIC* **
+something **BOLD and *ITALIC* text**
 
 #### unordered lists
 * item
